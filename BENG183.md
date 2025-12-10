@@ -1,7 +1,7 @@
 <div align="center">
 
-# Presentation 15: Spatial Transcriptomics  
-### 11/25/2025; Alex Mueller, Richard Ma, Weber Lai  
+# Spatial Transcriptomics Methodology, Downstream Analyses, and Applications  
+### Alex Mueller, Richard Ma, Weber Lai  
 
 </div>
 
@@ -136,21 +136,21 @@ From elucidating brain development to differentiating diseased cells, the veraci
 8. 10x Genomics. (2025). User Guides | Official 10x Genomics Support. http://www.10xgenomics.com/support/spatial-gene-expression-fresh-frozen/user-guides?menu
 
 
-[^1]: Yue, L., Liu, F., Hu, J., Yang, P., Wang, Y., Dong, J., Shu, W., Huang, X., & Wang, S. (2023). A guidebook of spatial transcriptomic technologies, data resources and analysis approaches. *Computational and Structural Biotechnology Journal*, 21, 940–955. https://doi.org/10.1016/j.csbj.2023.01.016
+[^1]: Yue et al (See reference 1).
 
-[^2]: Shi, W., Zhang, J., Huang, S., Fan, Q., Cao, J., Zeng, J., Wu, L., & Yang, C. (2024). Next-Generation Sequencing-Based Spatial Transcriptomics: A Perspective from Barcoding Chemistry. *JACS Au*, 4(5), 1723–1743. https://doi.org/10.1021/jacsau.4c00118
+[^2]: Shi et al (See reference 2).
 
-[^3]: Rao, A., Barkley, D., França, G. S., & Yanai, I. (2021). Exploring tissue architecture using spatial transcriptomics. *Nature*, 596(7871), 211–220. https://doi.org/10.1038/s41586-021-03634-9
+[^3]: Rao et al (See reference 3).
 
-[^4]: Garam Kim. (2025, June 6). MPG Primer: Spatial Transcriptomics Technologies: A Primer. YouTube; Broad Institute. https://www.youtube.com/watch?v=JbKCH7omGV0
+[^4]: Garam Kim (See reference 4).
 
-[^5]: Qian, X., Coleman, K., Jiang, S., Kriz, A. J., Marciano, J. H., Luo, C., Cai, C., … Walsh, C. A. (2025). Spatial transcriptomics reveals human cortical layer and area specification. *Nature*, 644(8075), 153–163. https://doi.org/10.1038/s41586-025-09010-1
+[^5]: Qian et al (See reference 5).
 
-[^6]: Chen, W. T., Lu, A., Craessaerts, K., Pavie, B., Sala Frigerio, C., … De Strooper, B. (2020). Spatial Transcriptomics and In Situ Sequencing to Study Alzheimer's Disease. *Cell*, 182(4), 976–991.e19. https://doi.org/10.1016/j.cell.2020.06.038
+[^6]: Chen et al (See reference 6).
 
-[^7]: Williams, C. G., Lee, H. J., Asatsuma, T., Vento-Tormo, R., & Haque, A. (2022). An introduction to spatial transcriptomics for biomedical research. *Genome Medicine*, 14(1). https://doi.org/10.1186/s13073-022-01075-1
+[^7]: Williams et al (See reference 7).
 
-[^8]: 10x Genomics. (2025). User Guides | Official 10x Genomics Support. http://www.10xgenomics.com/support/spatial-gene-expression-fresh-frozen/user-guides?menu
+[^8]: 10x Genomics (See reference 8).
 
 
 
